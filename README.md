@@ -7,5 +7,4 @@
 
 
 # mongoDB collection
-![images of the script]
-(https://github.com/emmasamuel/mongodb-basics/blob/master/task2-nodejs/mongoMainTask2--3.png)
+![images of the script](https://github.com/emmasamuel/mongodb-basics/blob/master/task2-nodejs/mongoMainTask2--3.png)
