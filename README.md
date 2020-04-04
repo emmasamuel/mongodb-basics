@@ -1,6 +1,5 @@
 # mongodb-basics / hng nodejs database snapshot
-![image of the bin]
-(https://github.com/emmasamuel/mongodb-basics/blob/master/task2-nodejs/mongodb-.png)
+![](https://github.com/emmasamuel/mongodb-basics/blob/master/task2-nodejs/mongodb-.png)
 
 
 # mongoDB creation
