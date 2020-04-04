@@ -5,7 +5,7 @@
 
 # mongoDB creation
 ![image of the code]
-(https://github.com/emmasamuel/mongodb-basics/blob/master/task2-nodejs/mongodb-.png)
+(https://github.com/emmasamuel/mongodb-basics/task2-nodejs/mongodb-.png)
 
 
 # mongoDB collection
