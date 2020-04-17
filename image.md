@@ -1,10 +1,4 @@
-# mongodb-basics / hng nodejs database snapshot
-![](https://github.com/emmasamuel/mongodb-basics/blob/master/task2-nodejs/mongodb-.png)
+# crud basic
+![](https://github.com/emmasamuel/mongodb-basics/blob/crud-basics/Annotation%202020-04-17%20141327---task3--imageMd.png)
 
 
-# mongoDB creation
-![image of the code](https://github.com/emmasamuel/mongodb-basics/blob/master/task2-nodejs/mongoMainTask2--2.png)
-
-
-# mongoDB collection
-![images of the script](https://github.com/emmasamuel/mongodb-basics/blob/master/task2-nodejs/mongoMainTask2--3.png)
